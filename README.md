@@ -1,4 +1,4 @@
-# LSTM Neural Network for Time Series Prediction
+<!-- # LSTM Neural Network for Time Series Prediction
 
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data.
 
@@ -9,7 +9,7 @@ LSTM built using the Keras Python package to predict time series steps and seque
 ## Requirements
 **Update:** As of 08-03-2017 this code has been updated from Python 2.7 to Python 3.5.
 
-This is to make it available to run natively on Windows TensorFlow installations ([Tutorial on how to install TensorFlow natively on Windows](http://www.jakob-aungiers.com/articles/a/Installing-TensorFlow-GPU-Natively-on-Windows-10))
+This is to make it available to run natively on Windows TensorFlow installations ([Tutorial on how to install TensorFlow natively on Windows](http://www.jakob-aungiers.com/articles/a/Installing-TensorFlow-GPU-Natively-on-Windows-10)) -->
 
 * Python 3.5
 * TensorFlow 1.0
@@ -17,10 +17,14 @@ This is to make it available to run natively on Windows TensorFlow installations
 * Keras 1.2.2
 * Matplotlib 2.0.0
 
-Output for sin wave sequential prediction:
+Output 1:
 
-![Output for sin wave sequential prediction](http://jakob-aungiers.com/jakob-aungiers/public/img/article/lstm-neural-network-timeseries/sinseqprediction.png)
+![Output 1](Figure_1.png)
 
-Output for stock market multiple sequential predictions:
+Output 2:
 
-![Output for stock market multiple sequential predictions](http://jakob-aungiers.com/jakob-aungiers/public/img/article/lstm-neural-network-timeseries/stockmultseqprediction.png)
+![Output 2](Figure_2.png)
+
+Output 3:
+
+![Output 3](Figure_3.png)
